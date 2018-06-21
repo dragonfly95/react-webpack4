@@ -1,7 +1,9 @@
 # Dependencies
 .psci_modules
+.vscode-upload.json
 bower_components
 node_modules
+
 
 # Generated files
 .psci
